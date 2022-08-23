@@ -13,3 +13,5 @@
 >Block High 100 - 925867 version is 1.2.1
 
 >Block high > 925867 version upgrade to 1.5
+
+>Block high > 2257381 version upgrade to 1.7
