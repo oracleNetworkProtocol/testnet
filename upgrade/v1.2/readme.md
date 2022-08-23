@@ -1,7 +1,7 @@
 
 ## 下载
-
-<details data-view-component="true" open="">
+<div class="mb-3">
+          <details data-view-component="true" open="">
   <summary role="button" data-view-component="true">    <h3 class="d-inline">Assets</h3>
     <span title="8" data-view-component="true" class="Counter ml-1">8</span>
 </summary>
@@ -107,3 +107,4 @@
   
 </div></div>
 </details>
+        </div>
